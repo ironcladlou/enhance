@@ -204,11 +204,11 @@ enhancement:
 Major milestones in the life cycle of a proposal should be tracked in `Implementation
 History`.
 
-## Drawbacks [optional]
+## Drawbacks
 
-Why should this enhancement _not_ be implemented.
+The idea is to find the best form of an argument why this enhancement _not_ be implemented.
 
-## Alternatives [optional]
+## Alternatives
 
 Similar to the `Drawbacks` section the `Alternatives` section is used to
 highlight and record other possible approaches to delivering the value proposed
